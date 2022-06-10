@@ -20,16 +20,21 @@ body{
     margin-top: 5px;
     text-align: center;
     color: white;
-    font-size: 10vh;
+    font-size: 4rem;
 }
 
+#time{
+    text-align: center;
+}
+
+
 .digit{
-    font-size: 10vh;
+    font-size: 3.5rem;
     font-weight: bold;
 }
 
 .txt{
-    font-size: 4vh;
+    font-size: 2rem;
     font-weight: bold;
 }
 
